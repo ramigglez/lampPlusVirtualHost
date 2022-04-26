@@ -41,4 +41,13 @@ encuentran sus archivos
 recuerde reemplazar el nombre de dominio "ramigglez.local" 
 en los archivos part2.sh y part3.sh por el que usted prefiera.
 
+Tambien tendra que cambiar este nombre 
+en el archivo hosts cuando este se le 
+despliegue a su debido tiempo
+
+identificara el archivo host cuando 
+en su pantalla vea algo asi :
+
+127.0.0.1  ramigglez.local
+
 </pre>
