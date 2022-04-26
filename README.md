@@ -38,6 +38,7 @@ encuentran sus archivos
 
 <h2>IMPORTANTE</h2>
 
-recuerde reemplazar el nombre de dominio "ramigglez.local" en los archivos part2.sh y part3.sh por el que usted prefiera.
+recuerde reemplazar el nombre de dominio "ramigglez.local" 
+en los archivos part2.sh y part3.sh por el que usted prefiera.
 
 </pre>
