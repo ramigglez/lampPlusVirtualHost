@@ -33,6 +33,6 @@ ServerAlias www.domain.com
 
 y finalmente no se olvide
 de cambiar el root directory
-por la ruta en al que se 
+por la ruta en la que se 
 encuentran sus archivos
 </pre>
