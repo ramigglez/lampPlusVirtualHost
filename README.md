@@ -35,4 +35,9 @@ y finalmente no se olvide
 de cambiar el root directory
 por la ruta en la que se 
 encuentran sus archivos
+
+<h2>IMPORTANTE</h2>
+
+recuerde reemplazar el nombre de dominio "ramigglez.local" en los archivos part2.sh y part3.sh por el que usted prefiera.
+
 </pre>
