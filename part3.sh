@@ -13,3 +13,5 @@ sudo nano /etc/hosts
 sudo systemctl restart apache2
 
 sudo apt install default-mysql-server
+
+sudo chown -R $USER /var/www
